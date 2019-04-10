@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\учеба\project\project\bin\Debug\project.exe
+C:\Users\User\Desktop\учеба\project\project\bin\Debug\project.pdb
+C:\Users\User\Desktop\учеба\project\project\obj\x86\Debug\project.exe
+C:\Users\User\Desktop\учеба\project\project\obj\x86\Debug\project.pdb
